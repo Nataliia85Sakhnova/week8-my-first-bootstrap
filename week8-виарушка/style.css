@@ -1,0 +1,94 @@
+.header__logo-title {
+    padding-left: 1vw;
+    font-family: 'Oswald', sans-serif;
+    font-weight: bold;
+    font-size: 1.5em;
+    text-decoration: none;
+    color: black;
+    margin-top: 15px;
+}
+
+.header__container-basket {
+    height: 38px;
+    width: 115px;
+    border-radius: 100px;
+    background-color: #5222D0;
+    text-align: center;
+    margin-top: 15px;
+}
+
+.header__link-basket {
+    text-decoration: none;
+    color: white;
+    font-size: 13px;
+    font-family: 'Oswald', sans-serif;
+    font-weight: bold;
+    line-height: 38px;
+}
+
+.main__title {
+    font-family: 'Oswald', sans-serif;
+    font-style: 60px;
+    font-weight: bold;
+    margin-bottom: 4vh;
+    background-color: #ffffff99;
+}
+}
+
+.card {
+    margin: 20px 0;
+}
+
+.card__title {
+    font-family: 'Oswald', sans-serif;
+    font-style: 30px;
+    font-weight: bold;
+}
+
+.card__text {
+    font-family: 'Oswald', sans-serif;
+    font-size: 20px;
+    font-weight: light;
+}
+
+.card__form {
+    background-color: #EC615B;
+}
+
+.card__title-news {
+    color: #fff;
+    Font size: 30px
+}
+
+main input {
+    width: 325px;
+    height: 50px;
+}
+
+.main--content {
+    display: flex;
+    justify-content: space-between;
+}
+
+.nav-item {
+    padding: 10px;
+}
+
+footer .navbar {
+    justify-content: center;
+}
+
+footer div {
+    margin: 30px;
+}
+
+.footer__content {
+    display: flex;
+}
+
+footer a {
+    color: #000;
+    font-family: Roboto Slab;
+    font-style: Light;
+    font-size: 20px;
+}
